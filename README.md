@@ -1,6 +1,5 @@
 # 🚀 Multi-Exchange Crypto Arbitrage Bot with AI and Quantitative Finance
 
-[![Status](https://img.shields.io/badge/Status-Production%20Ready-green.svg)](https://github.com/your-repo)
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://python.org)
 [![FastAPI](https://img.shields.io/badge/FastAPI-Latest-blue.svg)](https://fastapi.tiangolo.com/)
 [![React](https://img.shields.io/badge/React-18%2B-blue.svg)](https://reactjs.org/)
